@@ -19,7 +19,6 @@ body {
 }
 
 .bottom-content { 
-    text-align: center;
     position: absolute;
     bottom: 0;
     height: 100%;
@@ -73,4 +72,8 @@ u {
 .work {
     background-color: thistle;
     padding: 30px;
+}
+
+.color2 {
+    background-color: #AA5585;
 }
