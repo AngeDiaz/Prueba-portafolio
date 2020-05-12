@@ -74,6 +74,13 @@ u {
     padding: 30px;
 }
 
-.color2 {
-    background-color: #AA5585;
+.oscuro {
+    background: #AA5585;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
+
+.colornone {
+    text-decoration: none;
 }
