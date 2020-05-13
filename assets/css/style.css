@@ -4,7 +4,7 @@
 }
 
 body {
-    font-family: 'Concert One', sans-serif !important;
+    font-family: 'Concert One', cursive !important;
     font-weight: 400;
 }
 .color {
@@ -36,6 +36,11 @@ p {
     margin: 40px 0 20px;
 }
 
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    text-align: justify;
+}
 hr {
     border: #fff solid 2px;
     margin: 5px 120px 0px;
@@ -62,7 +67,7 @@ u {
 }
 
 .espacio {
-    padding: 20px;
+    padding: 40px 20px 0;
 }
 
 .img-bottom {
@@ -71,7 +76,8 @@ u {
 
 .work {
     background-color: thistle;
-    padding: 30px;
+    padding: 50px;
+    margin-bottom: 50px;
 }
 
 .oscuro {
@@ -79,6 +85,7 @@ u {
     color: #ffffff;
     text-align: center;
     padding: 20px;
+    margin: 50px 0 0;
 }
 
 .colornone {
